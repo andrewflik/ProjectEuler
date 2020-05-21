@@ -1,4 +1,5 @@
 # ProjectEuler
 Project Euler Solutions JAVA
 
-# All solutions in JAVA
+* Java Solutions in src
+* C++ Solutions in C++ Solutions
